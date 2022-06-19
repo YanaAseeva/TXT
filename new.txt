@@ -1,0 +1,5 @@
+About me
+       Name: AseevaYana
+       Age: 30
+       Number of pets: 2
+       Desired salary: 500$
